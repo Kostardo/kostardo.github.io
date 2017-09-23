@@ -29,18 +29,11 @@ a {
 
 .wrapper-text {
   font-size: 43px;
-  padding-top: 340px;
+  padding-top: 382px;
   width: 100%;
   text-align: center;
   margin: 0 auto;
   position: absolute;
   z-index: 200;
   color: white;
-}
-
-.pg-down {
-  background-image: url("../img/pg-down.svg");
-  background-repeat: no-repeat;
-  z-index: 200;
-  margin: 0 auto;
 }
